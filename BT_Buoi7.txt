@@ -1,4 +1,2 @@
 Day la bai tap  buoi 7
-<<<<<<< HEAD
-Nhanh feature-02 edit
->>>>>>> origin
+Nhanh feature-01 edit
